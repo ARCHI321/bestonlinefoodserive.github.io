@@ -88,7 +88,7 @@ CSS Variables
 
 #home::before{
     content: "";
-    background: url('/image/food.jpg') no-repeat center center/cover;
+    background: url('../image/food.jpg') no-repeat center center/cover;
     /* background-color: yellow; */
     position: absolute;
     height: 750px;
