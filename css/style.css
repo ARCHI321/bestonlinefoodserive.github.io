@@ -253,6 +253,7 @@ padding:50px;
 #contact
 {
     position: relative;
+    margin-top: 40px;
 }
 #contact::before{
     content: "";
