@@ -10,8 +10,9 @@
 }
 /* Home section */
 #home{
-    height: 370px; 
-    padding: 3px 28px;
+    height: 180px;
+    padding: 31px 28px;
+    padding-bottom: 59px;
 }
 
 #home::before{
@@ -67,4 +68,9 @@
 
 .h-primary-center{
     top: 20px;
+}
+
+#contact {
+    position: relative;
+    margin-top: 99px;
 }
